@@ -6,7 +6,7 @@
 
 A modern, fully responsive e-commerce web application built specifically for sports merchandise. This project demonstrates state management, dynamic routing, and responsive UI design using the React ecosystem.
 
-🔗 **[Live Demo: https://sports-shop-eta.vercel.app/](#)** ## ✨ Key Features
+🔗 **[Live Demo: Click here to view the project](#)** ## ✨ Key Features
 * **Dynamic Product Catalog:** Users can browse through various sports categories with real-time filtering.
 * **Shopping Cart State Management:** Implemented robust cart logic (add, remove, update quantities) using React Context / Redux.
 * **Responsive Design:** Mobile-first approach using Tailwind CSS, ensuring a seamless experience across all devices.
@@ -23,9 +23,10 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Eliasuarez04/react-sports-shop.git](https://github.com/Eliasuarez04/react-sports-shop.git)
-   
+
 2. Install te dependecies:
    npm install
 
 3. Start the development server:
    npm start
+   
